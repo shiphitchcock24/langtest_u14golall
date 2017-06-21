@@ -29,7 +29,7 @@ go:
 build:
   pre_ci_boot:
     image_name: drydock/u14golall
-    image_tag: master
+    image_tag: v5.5.1
     pull: true
    
   ci:
